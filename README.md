@@ -19,5 +19,6 @@ A modern web application for team task management built with React.js, Node.js, 
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/taskflow-app.git
+   git clone https://github.com/the1onlyjillian/taskflow-app.git
+
    cd taskflow-app
